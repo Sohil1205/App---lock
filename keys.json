@@ -1,0 +1,9 @@
+{
+  "status": "active",
+  "users": [
+    {
+      "device_id": "TEST12345",
+      "name": "DemoUser"
+    }
+  ]
+}
